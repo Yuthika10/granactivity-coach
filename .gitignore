@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# GranActivity Coach private data
+inbox/
+recordings/
+sessions.json
+profile.json
